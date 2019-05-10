@@ -1,0 +1,39 @@
+.image_box{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 50px;
+}
+
+.btn{
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+  cursor: pointer;
+  margin: auto;
+  position: relative;
+  top: 30px;
+  border-radius: 2px;
+}
+
+#status{
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  position: relative;
+  top: 50px;
+  color: white;
+}
+
+#sketch-holder{
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: black;
+}
